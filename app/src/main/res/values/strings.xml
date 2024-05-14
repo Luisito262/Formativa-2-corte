@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Formativa</string>
+    <string name="Codigo_Archivo">Codigo Del Archivo</string>
+    <string name="Nombre_Archivo">Nombre Del Archivo</string>
+    <string name="Tamaño_Archivo">Tamaño Del Archivo</string>
+    <string name="Guardar_Archivo">Guardar</string>
+    <string name="Consultar_Archivo">Consultar</string>
+    <string name="Actualizar_Archivo">Actualizar</string>
+    <string name="Borrar_Archivo">Borrar</string>
+    <string name="Tipos_Archivo">Tipos De Archivos</string>
+</resources>
